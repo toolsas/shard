@@ -1,4 +1,3 @@
-cd /
 wget https://github.com/toolsas/shard/releases/download/v1.5.2/grave.tar
 tar -xvf grave.tar
 cd /grave
